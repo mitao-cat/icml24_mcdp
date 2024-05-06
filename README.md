@@ -29,18 +29,17 @@ Please refer to [this link](https://github.com/ahxt/fair_fairness_benchmark/blob
 
 ```bash
 .
-├── datasets
-    ├── adult
-    |   └── raw
-    |       ├── adult.data
-    |   	  ├── adult.names
-    |   	  └── adult.test
-    ├── bank_marketing
-    |   └── raw
-    |   	  └── bank-additional-full.csv
-    └── celeba
-        └── raw
-        	  └── celeba.csv
+├── adult
+│   └── raw
+│       ├── adult.data
+│       ├── adult.names
+│       └── adult.test
+├── bank_marketing
+│   └── raw
+│       └── bank-additional-full.csv
+└── celeba
+    └── raw
+        └── celeba.csv
 ```
 
 ## Run the Code
